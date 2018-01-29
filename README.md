@@ -1,1 +1,1 @@
-# publicc-repo
+# public-repo
